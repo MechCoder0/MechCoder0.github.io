@@ -8,12 +8,7 @@
 			</p>
 			
 			<p>
-				Who am I? Well that is an interesting question. Who is anyone? 
-				Are we merely a collection of dust particles floating in a never-ending
-				blackness on a ball of dirt? Yes. But we are also created in the image of God, the 
-				Imago Dei. But enough of that for now, I am a software developer
-				who likes math and technology. This is to help you understand some of the things 
-				I found myself explaining. I hope it is helpful!
+				Suck it.
 			</p>
 		</div>
   </div>
