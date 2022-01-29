@@ -3,12 +3,11 @@
     <div class="mid">
 			<h1>The Introduction</h1>
 			<p>
-				Hello! I am here to explain some things that I havn't found well explained 
-				in other parts of the interwebs. 
+				Hello!
 			</p>
 			
 			<p>
-				Suck it.
+				Suck it. 
 			</p>
 		</div>
   </div>
