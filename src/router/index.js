@@ -11,6 +11,7 @@ const routes = [
   getRoute('breakout', import('../views/BreakoutView.vue')),
   getRoute('resources', import('../views/Resources.vue'))
 ]
+
 function getRoute(name, c){
   return {
     path: "/" + name,
