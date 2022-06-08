@@ -12,7 +12,7 @@
 				You want something more? Something funny, which actually has you laughing instead of blowing air out your
 				nose just a little faster? Something which causes you to stare in shock at the words which are being read, 
 				yet also somehow, causes you to think about the intricate, nuanced, philisophical delemias being handled with 
-				charm and grace? Well you won't find that here! Go home. Oh... You're already at home on your toilet reading this
+				charm and grace? You won't find that here! Go home. Oh... You're already at home, on your toilet, reading this
 				on a computer unimaginably powerful? Might as well continue then. The links up top will guide your path.
 			</p>
 		</div>

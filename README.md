@@ -22,4 +22,3 @@ git subtree push --prefix=dist https://github.com/MechCoder0/MechCoder0.github.i
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-
