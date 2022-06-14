@@ -6,9 +6,7 @@
     <div id="nav" class="navigation">
       <router-link to="/">Home</router-link> |
       <router-link to="/computers">Ned's Story</router-link> |
-      <router-link to="/cellphones">Coffee</router-link> |
-      <router-link to="/resources">Resources</router-link> |
-      <router-link to="/breakout">Breakout</router-link>
+      <router-link to="/coffee">Coffee</router-link>
     </div>
     <router-view/>
   </div>
