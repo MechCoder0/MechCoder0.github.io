@@ -12,7 +12,7 @@
 						This routine I have has been pretty much the same for some time. When I got married, 
 						the only thing that changed was the amount of coffee I had to share.  
 					</p>
-					<p class="indent">
+					<p>
 						Being married, one cannot drink the highest tier of coffee every day, 
 						because that causes poordom. I do not wish to be poor, so I devised a tier system for our coffee. 
 						We drink mostly tier 2-3 coffee, and have tier 1 coffee on hand. 
@@ -61,7 +61,7 @@
 						This is the coffee the devil himself orders when he goes out. 
 						Best not to be seen with it.
 					</p>
-					<p class="indent">
+					<p>
 						These are our coffee levels! 
 						I hope you have gained insight into the wonderful leveling of the dark brew. 
 						May your day be blessed from the reading.
