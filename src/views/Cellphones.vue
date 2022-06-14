@@ -5,7 +5,7 @@
 				<h1> Coffee Time!</h1>
 				<div>
 					<p>
-						It’s no secret I love coffee. I drink roughly my weight in caffeine every morning. 
+						It is no secret I love coffee. I drink roughly my weight in caffeine every morning. 
 						This leads to no problems and is great for my health. 
 						Every morning is pretty much the same: I wake up, regret existence, eventually get up, 
 						brush my teeth, use the toilet, eat an apple, and make mugs of coffee. 
