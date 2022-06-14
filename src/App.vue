@@ -5,8 +5,8 @@
     </head>
     <div id="nav" class="navigation">
       <router-link to="/">Home</router-link> |
-      <router-link to="/computers">Computers</router-link> |
-      <router-link to="/cellphones">Cellphones</router-link> |
+      <router-link to="/computers">Ned's Story</router-link> |
+      <router-link to="/cellphones">Coffee</router-link> |
       <router-link to="/resources">Resources</router-link> |
       <router-link to="/breakout">Breakout</router-link>
     </div>
