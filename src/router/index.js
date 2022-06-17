@@ -6,9 +6,9 @@ Vue.use(VueRouter)
 const routes = [
   getRoute('', import('../views/Home.vue')),
   getRoute('home', import('../views/Home.vue')),
-  getRoute('computers', import('../views/Computers.vue')),
-  getRoute('cellphones', import('../views/Cellphones.vue')),
-  getRoute('coffee', import('../views/Coffee.vue'))
+  getRoute('nedStory', import('../views/NedStory.vue')),
+  getRoute('coffee', import('../views/Coffee.vue')),
+  getRoute('food', import('../views/Food.vue'))
 ]
 
 function getRoute(name, c){
