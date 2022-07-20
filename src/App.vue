@@ -7,6 +7,7 @@
       <router-link to="/">Home</router-link> |
       <router-link to="/nedStory">Ned's Story</router-link> |
       <router-link to="/coffee">Coffee</router-link> |
+      <router-link to="/coffeev2">Coffee V2</router-link> |
       <router-link to="/food">Food</router-link>
     </div>
     <router-view/>

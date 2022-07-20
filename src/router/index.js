@@ -8,7 +8,8 @@ const routes = [
   getRoute('home', import('../views/Home.vue')),
   getRoute('nedStory', import('../views/NedStory.vue')),
   getRoute('coffee', import('../views/Coffee.vue')),
-  getRoute('food', import('../views/Food.vue'))
+  getRoute('food', import('../views/Food.vue')),
+  getRoute('coffeev2', import('../views/Coffee2.vue'))
 ]
 
 function getRoute(name, c){
