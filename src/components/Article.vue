@@ -8,6 +8,10 @@
     </div>
 </template>
 
+<style>
+  @import '../assets/styles/main.css';
+</style>
+
 <script>
   export default {};
 </script>

@@ -1,5 +1,5 @@
 <template>
-	<div class="article">
+	<Article>
 		<h1> TwitterBook!</h1>
 		<p>
 			This is a story about social media.
@@ -40,5 +40,14 @@
 				Or was.
 			</p>
 		</div>
-	</div>
+	</Article>
 </template>
+
+<script>
+    import Article from '@/components/Article.vue'
+    export default {
+        components: {
+            Article
+        }
+    }
+</script>

@@ -1,7 +1,14 @@
-import Article from '../components/Article.vue'
-
 <template>
-    <article>
+    <Article>
         <h1>hello</h1>
-    </article>
+    </Article>
 </template>
+
+<script>
+    import Article from '@/components/Article.vue'
+    export default {
+        components: {
+            Article
+        }
+    }
+</script>

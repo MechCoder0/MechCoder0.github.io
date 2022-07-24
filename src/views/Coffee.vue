@@ -1,6 +1,5 @@
-import Article from '../components/Article.vue'
 <template>
-	<article>
+	<Article>
 		<h1> Coffee Time!</h1>
 		<div>
 			<p>
@@ -66,5 +65,14 @@ import Article from '../components/Article.vue'
 				May your day be blessed from the reading.
 			</p>
 		</div>
-	</article>
+	</Article>
 </template>
+
+<script>
+    import Article from '@/components/Article.vue'
+    export default {
+        components: {
+            Article
+        }
+    }
+</script>
