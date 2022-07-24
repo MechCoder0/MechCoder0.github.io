@@ -9,7 +9,8 @@ const routes = [
   getRoute('nedStory', import('../views/NedStory.vue')),
   getRoute('coffee', import('../views/Coffee.vue')),
   getRoute('food', import('../views/Food.vue')),
-  getRoute('coffeev2', import('../views/Coffee2.vue'))
+  getRoute('coffeev2', import('../views/Coffee2.vue')),
+  getRoute('zombie', import('../views/Zombie.vue'))
 ]
 
 function getRoute(name, c){
@@ -21,5 +22,4 @@ function getRoute(name, c){
 }
 
 const router = new VueRouter({routes})
-
 export default router
