@@ -1,6 +1,42 @@
 <template>
     <Article>
-        <h1>hello</h1>
+        <h1>Zombies, Another One Bites the Brain</h1>
+        <div>
+            <p>
+                It is the hundredth day after the accident. Nobody saw it coming. Everyone blamed everyone else. The republicans blamed the Chinese, 
+                the democrats blamed the republicans, and the working folk still had to go to work. It is funny how essential can really mean expendable. 
+                Grocery stores can not be shut down, food must be had! 
+                Grocery workers are essential! Which means they should risk their lives so my life is not inconvenienced. 
+            </p>
+            <p>
+                The plague affects us all. But to varying degrees. I am one of the lucky ones; I worked in software. 
+                This did not involve much contact with the outside world in the before times, and it sure as hell does not now. 
+            </p>
+            <p>
+                I was working for a pathetic firm before brain-eaters invaded. 
+                Architecture by Smith and Sons, was their name. Their slogan? “We'll erect it quick!” 
+                I thought they should fire their marketing team, but it turns out, the CEO was the one who came up with the slogan, 
+                and he was rather fond of it. ASS consisted of gray walls, gray desks, gray people. 
+                When I started working there, I had a large desk with lots of space. Seated next to me was a women named Barbra. 
+                Barbra was an interesting one. She occasionally liked to talk, occasionally did not. It was always hard to tell what mood she was in. 
+                One day I came into the company and found my desk partner had moved. She had not moved companies, just desks. 
+                Apparently, I talked on a wrong day or did not talk on a wrong day and she went straight to the head honcho and said, 
+                “Fredrick is the worst and I cannot be by him any longer!” So moved she was. 
+            </p>
+            <p>
+                Once news of the zombie bites started to spread in ASS, gossip about leaving the office also started to spread. 
+                Every one kept asking if we would be moving to work from home, and manglement kept repeating we would not be affected. 
+                “This company has millions in savings and nothing is going to change that. What is the worst that could happen? 
+                A few old people who cannot outrun slow shambling kind of dead things die off? Good! We have needed another plague for a while!” 
+                Such were the thoughts and words of my bosses. We had to take our laptops home though, “just in case.” It is a good thing we did.
+            </p>
+            <p>
+                One Sunday evening, I received a phone call stating we were not to be in the office until further notice. 
+                The bosses made a last-minute decision and my monitors, coats and bonsai are now stranded, 
+                locked in the sunless concrete prison of depression. This began my adventure of working from home. 
+                And by home, I mean in my bed, next to my wife, trying not to panic.
+            </p>
+        </div>
     </Article>
 </template>
 
